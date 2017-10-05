@@ -1,0 +1,5 @@
+The original ReLU activation function give zero gradient when its input is
+negative. The origin ReLU will cause a lot dead neuron in networks. Because
+there is no gradient to update weights if the output of the neuron is negative.
+Leaky ReLU activation gives small gradient to negative output neurons. The
+activation function is max(x, ax), where a is a small positive number.
