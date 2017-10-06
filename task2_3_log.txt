@@ -1,0 +1,36 @@
+==================== vanilla update strategy ====================
+Epoch 0: 7383 / 10000
+Epoch 1: 8126 / 10000
+Epoch 2: 8207 / 10000
+Epoch 3: 8251 / 10000
+Epoch 4: 8277 / 10000
+Epoch 5: 8301 / 10000
+Epoch 6: 8340 / 10000
+Epoch 7: 8354 / 10000
+Epoch 8: 8375 / 10000
+Epoch 9: 9395 / 10000
+Evaluation on test: 9338 / 10000
+==================== standard momentum ====================
+Epoch 0: 7176 / 10000
+Epoch 1: 8163 / 10000
+Epoch 2: 8414 / 10000
+Epoch 3: 8482 / 10000
+Epoch 4: 9395 / 10000
+Epoch 5: 9406 / 10000
+Epoch 6: 9452 / 10000
+Epoch 7: 9422 / 10000
+Epoch 8: 9461 / 10000
+Epoch 9: 9474 / 10000
+Evaluation on test: 9438 / 10000
+==================== nesterov SGD ====================
+Epoch 0: 7148 / 10000
+Epoch 1: 8123 / 10000
+Epoch 2: 8224 / 10000
+Epoch 3: 8313 / 10000
+Epoch 4: 9305 / 10000
+Epoch 5: 9368 / 10000
+Epoch 6: 9392 / 10000
+Epoch 7: 9403 / 10000
+Epoch 8: 9416 / 10000
+Epoch 9: 9456 / 10000
+Evaluation on test: 9405 / 10000
