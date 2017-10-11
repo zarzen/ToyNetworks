@@ -174,7 +174,7 @@ def main():
     network_sizes = [784, 30, 10]
     batch_size = 30
     lr = 3
-    mu = 0.9
+    mu = 0.8
     lmd = 200.0
     print('batch_size {0}; learning rate {1}; momentum: {2}; lambda {3}'.format(
         batch_size, lr, mu, lmd
